@@ -2,5 +2,9 @@
 name = "embedded-dma-hal"
 version = "0.0.1"
 authors = ["Brandon Matthews <bmatthews@zipcar.com>"]
+description = "DMA-related HAL to complement japaric's embedded-hal"
+readme = "README.md"
+repository = "https://github.com/thenewwazoo/embedded-dma-hal"
+keywords = ["arm", "cortex-m", "rust", "embedded", "embedded-hal"]
 
 [dependencies]
