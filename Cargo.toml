@@ -1,0 +1,6 @@
+[package]
+name = "embedded-dma-hal"
+version = "0.0.1"
+authors = ["Brandon Matthews <bmatthews@zipcar.com>"]
+
+[dependencies]
